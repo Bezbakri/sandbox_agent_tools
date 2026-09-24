@@ -1,0 +1,1 @@
+Research work for sandboxing agentic AI tools based on least privilege.
